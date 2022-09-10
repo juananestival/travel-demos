@@ -3,6 +3,10 @@
 # Env variables
 .env
 
+# Python env
+env
+*.db
+
 # Compiled output
 /dist
 /tmp

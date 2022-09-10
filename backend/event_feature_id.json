@@ -1,0 +1,26 @@
+{
+    detectIntentResponseId: '7fb22b83-3aa9-4d0d-b8d5-8832e634f871',
+    intentInfo: {
+      lastMatchedIntent: 'projects/hospitality-demo-361210/locations/global/agents/fcb0a3b6-8299-4a9d-87e0-3731db89eab2/intents/96609211-7b5b-44d2-9e0f-8fd7809b863a',
+      displayName: 'Developing Feature',
+      confidence: 0.75145435
+    },
+    pageInfo: {
+      currentPage: 'projects/hospitality-demo-361210/locations/global/agents/fcb0a3b6-8299-4a9d-87e0-3731db89eab2/flows/6186a5bc-e4a6-4534-9ee8-a5f3f609de38/pages/START_PAGE',
+      displayName: 'Start Page'
+    },
+    sessionInfo: {
+      session: 'projects/hospitality-demo-361210/locations/global/agents/fcb0a3b6-8299-4a9d-87e0-3731db89eab2/sessions/030068-44d-7d4-7ff-219794aea',
+      parameters: {
+        customerid: '+34664004600',
+        customerpin: '1234',
+        customerverified: true,
+        first_name: '"Juanan"',
+        last_name: '"Estival"',
+        reservations_list: 2
+      }
+    },
+    fulfillmentInfo: { tag: 'local-test' },
+    text: 'feature',
+    languageCode: 'en'
+  }  
